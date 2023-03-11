@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body * {
+  font-family: 'Roboto';
+}
+
+body {
+ background-image: linear-gradient(150deg, #848fa3, #09275b);
+ text-align: center;
+ height: 120vh; 
+}
+
+header {
+  padding: 20px 0 0 0;
+}
+
+.card{
+  display: inline-block;
+  width: 354px;
+  height: 508px;
+  background-image: url(./assets/card-1.svg);
+  cursor: pointer;
+  user-select: none;
+
+
+  opacity: 0;
+  transform: translateY(-100px);
+  animation: appear 0.4s forwards;
+
+}
+
+@keyframes appear {
+  to{
+    opacity: 1;
+    transform: translateY(0px);
+  }
+}
