@@ -39,7 +39,7 @@ Então resolvi fazer a versão de cards destes Pokémon! Escolhi 35 Pokémon e c
 
 O link para acessar ao projeto está logo abaixo, acesse para visualizar os Cards dos Pokémon.
 
-- [Visite o projeto online](https://marlonakio.github.io/BagdexCards/)
+- [Visite o projeto online](https://marlonakio.github.io/Bagdex_Cards/)
 
 ## 🚀 Tecnologias
 
